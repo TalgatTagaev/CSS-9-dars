@@ -1,0 +1,60 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.form-group{
+    width: 300px;
+    height: 400px;
+    margin: 0 auto;
+    border: 1px solid #cccccc;
+    padding: 1rem 1.5rem;
+    box-sizing: border-box;
+}
+.form-groupp{
+    margin-left:750px;
+    margin-top: -400px;
+    background-image: url(../rasm/zafar.jpg);
+}
+input{
+    width: 80%;
+    padding: 0.5rem 1rem;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.sign{
+    width: 40%;
+    color: white;
+    background-color: green;
+}
+.c{
+    margin-left: 10px;
+}
+.ixtiyor{
+    background-color: blue;
+    color: white;
+    margin-top: 50px;
+}
+.behruz{
+    background-color: #1d95ff;
+    color: white;
+}
+.zafar{
+    background-color: red;
+    color: white;
+}
+.h1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    margin-left: 720px;
+    margin-top: -230px;
+}
+.h2{
+ font-size: 30px;
+ color: white;
+}
